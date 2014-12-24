@@ -11,6 +11,11 @@ How To Make Your Own
 1. edit resume.html with your details
 1. run make
 
+Rebuild on Commit
+===============
+
+```$ cp hooks/post-commit .git/hooks/```
+
 Example
 =======
 
